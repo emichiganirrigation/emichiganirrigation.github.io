@@ -9,3 +9,9 @@
 .navbar-default .navbar-nav>li>a {
     color: #ffffff;
 }
+
+.sub-page-heading{
+    position:relative;
+    padding-top: 6%;
+    padding-bottom: 2%;
+}
