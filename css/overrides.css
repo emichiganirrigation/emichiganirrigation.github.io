@@ -21,3 +21,11 @@
         color:#ffffff;
     }
 }
+
+.wifi{
+        background: url(../img/services/wifi.jpg) no-repeat center center;
+}
+
+.repair{
+        background: url(../img/services/repair.jpg) no-repeat center center;
+}
