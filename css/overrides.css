@@ -29,3 +29,9 @@
 .repair{
         background: url(../img/services/repair.jpg) no-repeat center center;
 }
+
+.image-responsive{
+    display:block;
+    width:100%;
+    height:100%;
+}
