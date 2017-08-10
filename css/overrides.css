@@ -82,7 +82,12 @@ div.desc {
     background-color:#ffffff;
 }
 
-
+.product-image{
+    display:block;
+    margin:auto;
+    width:50%;
+    padding-bottom:15px;    
+}
 
 
 
